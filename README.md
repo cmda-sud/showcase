@@ -1,6 +1,6 @@
 # Showcase
 
-![Showcase banner](cmda-sud-example-banner.jpg)
+![Showcase banner](cmda-sud-showcase-banner.jpg)
 > Showcase of the best student work created during the course.
 
 ## Introduction
